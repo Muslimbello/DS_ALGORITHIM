@@ -25,7 +25,6 @@ arr = [
 ]
 
 
-# first method
 def majority_element(nums):
     nums.sort()
     n = len(nums)
